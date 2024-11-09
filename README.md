@@ -31,6 +31,11 @@ Welcome to my GitHub! I'm a passionate frontend developer with experience in cre
 
 ### Designing
 ![Photoshop](https://img.shields.io/badge/-Photoshop-000?logo=Adobe%20Photoshop)
+![Illustrator](https://img.shields.io/badge/-Illustrator-000?logo=adobe%20illustrator)
+![Figma](https://img.shields.io/badge/-Figma-000?logo=figma)
+![InDesign](https://img.shields.io/badge/-InDesign-000?logo=adobe%20indesign)
+![After Effects](https://img.shields.io/badge/-After%20Effects-000?logo=adobe%20after%20effects)
+
 
 ---
 
