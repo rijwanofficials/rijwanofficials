@@ -11,11 +11,12 @@ Welcome to my GitHub! I'm a passionate frontend developer with experience in cre
 ## 🛠️ Tools and Technologies
 
 ### Languages
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?&style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?&style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?&style=flat-square&logo=typescript&logoColor=white)
-
+![HTML5](https://img.shields.io/badge/-HTML5-000?&logo=HTML5)
+![CSS3](https://img.shields.io/badge/-CSS3-000?&logo=CSS3)
+![C++](https://img.shields.io/badge/-C++-000?&logo=C%2B%2B&logoColor=white)
+![C](https://img.shields.io/badge/-C-000?&logo=C)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
+![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
 
 ### Frameworks & Libraries
 ![React](https://img.shields.io/badge/React-%2320232a.svg?&style=flat-square&logo=react&logoColor=%2361DAFB)
