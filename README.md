@@ -30,7 +30,7 @@ Welcome to my GitHub! I'm a passionate frontend developer with experience in cre
 ![VMware](https://img.shields.io/badge/-VMware-000?logo=vmware)
 
 ### Designing
-![Photoshop](https://img.shields.io/badge/-Photoshop-31A8FF?logo=Adobe%20Photoshop)
+![Photoshop](https://img.shields.io/badge/-Photoshop-000?logo=Adobe%20Photoshop)
 
 ---
 
