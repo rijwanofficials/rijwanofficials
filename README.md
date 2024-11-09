@@ -27,7 +27,9 @@ Welcome to my GitHub! I'm a passionate frontend developer with experience in cre
 ![GitHub](https://img.shields.io/badge/-GitHub-000?&logo=Github)
 ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-000?&logo=Visual%20Studio%20Code)
-![VMware](https://img.shields.io/badge/-VMware-000?logo=vmware)---
+![VMware](https://img.shields.io/badge/-VMware-000?logo=vmware)
+
+---
 
 ## 📂 Projects
 
