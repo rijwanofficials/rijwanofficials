@@ -29,6 +29,9 @@ Welcome to my GitHub! I'm a passionate frontend developer with experience in cre
 ![VS Code](https://img.shields.io/badge/-VS%20Code-000?&logo=Visual%20Studio%20Code)
 ![VMware](https://img.shields.io/badge/-VMware-000?logo=vmware)
 
+### Designing
+![Photoshop](https://img.shields.io/badge/-Photoshop-31A8FF?logo=Adobe%20Photoshop)
+
 ---
 
 ## 📂 Projects
