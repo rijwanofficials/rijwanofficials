@@ -1,7 +1,6 @@
 # 💻 Frontend Developer Portfolio
 
-![GitHub followers](https://img.shields.io/github/followers/rijwanofficials?label=Follow&style=social)
-![GitHub stars](https://img.shields.io/github/stars/rijwanofficials?label=Stars&style=social)
+![GitHub followers](https://img.shields.io/github/followers/rijwanofficials?label=Follow&style=social) ![GitHub stars](https://img.shields.io/github/stars/rijwanofficials?style=social)
 ![Profile views](https://komarev.com/ghpvc/?username=rijwanofficials&color=blueviolet)
 
 Welcome to my GitHub! I'm a passionate frontend developer with experience in creating responsive, user-friendly web applications. Below, you'll find details about the tools and technologies I use, the projects I’ve worked on, and certifications I've earned to hone my skills. 
