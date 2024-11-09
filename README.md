@@ -19,20 +19,15 @@ Welcome to my GitHub! I'm a passionate frontend developer with experience in cre
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
 
 ### Frameworks & Libraries
-![React](https://img.shields.io/badge/React-%2320232a.svg?&style=flat-square&logo=react&logoColor=%2361DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-%23000000.svg?&style=flat-square&logo=nextdotjs&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-%234FC08D.svg?&style=flat-square&logo=vuedotjs&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-%23563D7C.svg?&style=flat-square&logo=bootstrap&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?&style=flat-square&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-000?&logo=Bootstrap)
+![TailwindCSS](https://img.shields.io/badge/-Tailwind%20CSS-000?&logo=Tailwind%20CSS&logoColor=white)
 
 ### Development Tools
-![Git](https://img.shields.io/badge/Git-%23F05032.svg?&style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?&style=flat-square&logo=github&logoColor=white)
-![Webpack](https://img.shields.io/badge/Webpack-%238DD6F9.svg?&style=flat-square&logo=webpack&logoColor=black)
-![VS Code](https://img.shields.io/badge/VS%20Code-%23007ACC.svg?&style=flat-square&logo=visual-studio-code&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?&style=flat-square&logo=figma&logoColor=white)
-
----
+![Git](https://img.shields.io/badge/-Git-000?&logo=Git)
+![GitHub](https://img.shields.io/badge/-GitHub-000?&logo=Github)
+![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
+![VS Code](https://img.shields.io/badge/-VS%20Code-000?&logo=Visual%20Studio%20Code)
+![VMware](https://img.shields.io/badge/-VMware-000?logo=vmware)---
 
 ## 📂 Projects
 
