@@ -48,19 +48,13 @@ Welcome to my GitHub! I'm a passionate frontend developer with experience in cre
    - **Technologies Used**: React.js, Redux, Stripe API, and Firebase for backend.
    - **Features**: User authentication, product filters, and real-time inventory updates.
 
-### 3. **[Task Manager App](https://github.com/username/task-manager)**
-   - **Description**: A productivity app to help users organize tasks, set deadlines, and track progress.
-   - **Technologies Used**: Vue.js, Vuex, and Firebase for database.
-   - **Features**: Drag-and-drop functionality, task prioritization, and notifications.
-
 ---
 
 ## 📜 Certifications
 
-- **Frontend Development** - ![FreeCodeCamp](https://img.shields.io/badge/FreeCodeCamp-%230A0A23.svg?&style=flat-square&logo=freecodecamp&logoColor=white)
-- **JavaScript and ES6** - [Udemy](https://www.udemy.com/)
-- **React Basics** - [Coursera](https://www.coursera.org/)
-- **Responsive Web Design** - [Google Developer Certification](https://grow.google/)
+- **Frontend Development** - ![Programming Pathshala](https://img.shields.io/badge/FreeCodeCamp-%230A0A23.svg?&style=flat-square&logo=freecodecamp&logoColor=white)
+- **JavaScript and ES6** - [Programming Pathshala](https://dashboard.programmingpathshala.com/renaissance/classroom/home)
+- **React** - [Programming Pathshala](https://dashboard.programmingpathshala.com/renaissance/classroom/home)
 
 ---
 
