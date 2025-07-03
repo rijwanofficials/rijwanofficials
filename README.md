@@ -15,7 +15,8 @@ Welcome to my GitHub! I'm a passionate frontend developer with experience in cre
 ![C++](https://img.shields.io/badge/-C++-000?&logo=C%2B%2B&logoColor=white)
 ![C](https://img.shields.io/badge/-C-000?&logo=C)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
-![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
+![React](https://img.shields.io/badge/-React-000?&logo=react)
+
 
 ### Frameworks & Libraries
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-000?&logo=Bootstrap)
@@ -24,16 +25,13 @@ Welcome to my GitHub! I'm a passionate frontend developer with experience in cre
 ### Development Tools
 ![Git](https://img.shields.io/badge/-Git-000?&logo=Git)
 ![GitHub](https://img.shields.io/badge/-GitHub-000?&logo=Github)
-![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-000?&logo=Visual%20Studio%20Code)
-![VMware](https://img.shields.io/badge/-VMware-000?logo=vmware)
 
 ### Designing
 ![Photoshop](https://img.shields.io/badge/-Photoshop-000?logo=Adobe%20Photoshop)
 ![Illustrator](https://img.shields.io/badge/-Illustrator-000?logo=adobe%20illustrator)
 ![Figma](https://img.shields.io/badge/-Figma-000?logo=figma)
 ![InDesign](https://img.shields.io/badge/-InDesign-000?logo=adobe%20indesign)
-![After Effects](https://img.shields.io/badge/-After%20Effects-000?logo=adobe%20after%20effects)
 
 
 ---
