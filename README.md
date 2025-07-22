@@ -43,7 +43,7 @@ Welcome to my GitHub! I'm a passionate frontend developer with experience in cre
    - **Technologies Used**: React.js, Tailwind CSS, and Framer Motion for animations.
    - **Features**: Dynamic project showcase, smooth animations, mobile-first design, and light/dark mode.
 
-### 2. **[E-commerce Website](https://github.com/username/e-commerce)**
+### 2. **[E-commerce Website](https://react-mini-project-git-main-rijwanofficials-projects.vercel.app/)**
    - **Description**: A full-fledged e-commerce website with features like product search, shopping cart, and payment gateway integration.
    - **Technologies Used**: React.js, Redux, Stripe API, and Firebase for backend.
    - **Features**: User authentication, product filters, and real-time inventory updates.
