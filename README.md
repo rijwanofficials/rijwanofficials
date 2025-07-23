@@ -60,7 +60,7 @@ Welcome to my GitHub! I'm a passionate frontend developer with experience in cre
 
 ## 📬 Contact
 
-Feel free to reach out to me on [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white)]([[https://linkedin.com/in/username](https://www.linkedin.com/in/rijwanln/)](https://www.linkedin.com/in/rijwanln/)) or via email at [email@example.com](husainrijwan2001@gmail.com) if you're interested in collaborating or just want to connect!
+Feel free to reach out to me on [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white)]([(https://www.linkedin.com/in/rijwanln/)]) or via email at (husainrijwan2001@gmail.com) if you're interested in collaborating or just want to connect!
 
 ---
 
