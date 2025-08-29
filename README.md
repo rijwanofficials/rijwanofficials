@@ -27,8 +27,8 @@ I blend **creativity with technology** — building scalable **MERN applications
 
 ## 📊 GitHub Stats
 
-![Rizwan's GitHub stats](https://github-readme-stats.vercel.app/api?username=rizwanhusain&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rizwanhusain&layout=compact&theme=tokyonight)  
+![Rijwan's GitHub stats](https://github-readme-stats.vercel.app/api?username=rijwanhusain&show_icons=true&theme=tokyonight)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rijwanhusain&layout=compact&theme=tokyonight)  
 
 ## 📬 Let's Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/your-link](https://www.linkedin.com/in/rijwanln/))  
