@@ -32,8 +32,7 @@ I blend **creativity with technology** — building scalable **MERN applications
 
 ## 📊 Profile Stats  
 
-![Profile Views](https://komarev.com/ghpvc/?username=rijwanhusain&label=Profile%20Views&color=0e75b6&style=flat)
-
+![Profile Views](https://img.shields.io/badge/Profile%20Views-200+-blue)
 
 ## 📊 GitHub Stats
 
