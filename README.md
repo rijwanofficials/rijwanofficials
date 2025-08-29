@@ -31,6 +31,6 @@ I blend **creativity with technology** — building scalable **MERN applications
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rijwanofficials&layout=compact&theme=react)
 
 ## 📬 Let's Connect
-📧 **Email:** husainrijwan2001@gmail.com  
-💼 **LinkedIn:** [linkedin.com/in/rijwanln](https://www.linkedin.com/in/rijwanln/)  
-🎨 **Behance:** [behance.net/rijwanhusain](https://www.behance.net/rijwanhusain)  
+[![Email](https://img.shields.io/badge/Email-husainrijwan2001@gmail.com-red?style=flat&logo=gmail&logoColor=white)](mailto:husainrijwan2001@gmail.com)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-rijwanln-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rijwanln/)  
+[![Behance](https://img.shields.io/badge/Behance-rijwanhusain-0057ff?style=flat&logo=behance&logoColor=white)](https://www.behance.net/rijwanhusain)  
