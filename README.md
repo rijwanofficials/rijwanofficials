@@ -32,7 +32,7 @@ I blend **creativity with technology** — building scalable **MERN applications
 
 ## 📊 Profile Stats  
 
-![Profile Views](https://img.shields.io/badge/Profile%20Views-200+-blue)
+![Profile Views](https://img.shields.io/badge/Profile%20Views-1000+-blue)
 
 ## 📊 GitHub Stats
 
