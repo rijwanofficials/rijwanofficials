@@ -30,6 +30,10 @@ I blend **creativity with technology** — building scalable **MERN applications
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-rijwanln-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rijwanln/)  
 [![Behance](https://img.shields.io/badge/Behance-rijwanhusain-0057ff?style=flat&logo=behance&logoColor=white)](https://www.behance.net/rijwanhusain) 
 
+## 📊 Profile Stats  
+
+![Profile Views](https://komarev.com/ghpvc/?username=rijwanhusain&label=Profile%20Views&color=0e75b6&style=flat)
+
 
 ## 📊 GitHub Stats
 
