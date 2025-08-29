@@ -26,7 +26,7 @@ I blend **creativity with technology** — building scalable **MERN applications
 
 ## 📬 Let's Connect
 [![Email](https://img.shields.io/badge/Email-husainrijwan2001@gmail.com-red?style=flat&logo=gmail&logoColor=white)](mailto:husainrijwan2001@gmail.com)  
-[![LeetCode](https://img.shields.io/badge/LeetCode-rizwan-orange?style=flat&logo=leetcode&logoColor=white)](https://leetcode.com/your-username/)  
+[![LeetCode](https://img.shields.io/badge/LeetCode-rizwan-orange?style=flat&logo=leetcode&logoColor=white)](https://leetcode.com/u/__rijwan/)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-rijwanln-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rijwanln/)  
 [![Behance](https://img.shields.io/badge/Behance-rijwanhusain-0057ff?style=flat&logo=behance&logoColor=white)](https://www.behance.net/rijwanhusain) 
 
