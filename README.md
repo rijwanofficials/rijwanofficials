@@ -1,24 +1,29 @@
-# 👨‍🎨 Rizwan | Developer + Designer  
+# 👋 Hey, I'm Rijwan  
 
-💻 Building **MERN Applications**  
-🎨 Designing **UI/UX + Graphics**  
-⚡ Blending **Creativity with Code**  
+💻 **MERN Stack Developer** | ⚡ **React & Node.js Enthusiast** | 🎨 **UI/UX & Graphic Designer**  
 
----
-
-### 🔧 Toolbox
-- **Frontend** → React, Next.js, Tailwind, JavaScript  
-- **Backend** → Node.js, Express, MongoDB  
-- **Design** → Figma, Adobe Creative Suite, Motion Graphics  
+I blend **creativity with technology** — building scalable **MERN applications** and designing **modern, user-friendly UI/UX** experiences.  
 
 ---
 
-### 🎯 Current Focus
-- 🚀 Full Stack MERN Projects  
-- 🎨 UI/UX Case Studies  
-- 🛍️ E-Commerce + FinTech Product Design  
+## 🚀 Tech Stack
 
----
+### 💻 Development
+![JavaScript](https://img.shields.io/badge/-JavaScript-000?style=for-the-badge&logo=JavaScript)
+![React](https://img.shields.io/badge/-React-000?style=for-the-badge&logo=react)
+![Node.js](https://img.shields.io/badge/-Node.js-000?style=for-the-badge&logo=node.js)
+![Express.js](https://img.shields.io/badge/-Express.js-000?style=for-the-badge&logo=express)
+![MongoDB](https://img.shields.io/badge/-MongoDB-000?style=for-the-badge&logo=mongodb)
+![C++](https://img.shields.io/badge/-C++-000?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C](https://img.shields.io/badge/-C-000?style=for-the-badge&logo=c)
 
-📊 GitHub Stats | 🖼️ Design + Code Fusion
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSERNAME&layout=compact&theme=radical)  
+### 🎨 Design Tools
+![Figma](https://img.shields.io/badge/-Figma-000?style=for-the-badge&logo=figma)
+![Photoshop](https://img.shields.io/badge/-Photoshop-000?style=for-the-badge&logo=adobe-photoshop)
+![Illustrator](https://img.shields.io/badge/-Illustrator-000?style=for-the-badge&logo=adobe-illustrator)
+![InDesign](https://img.shields.io/badge/-InDesign-000?style=for-the-badge&logo=adobe-indesign)
+![Canva](https://img.shields.io/badge/-Canva-000?style=for-the-badge&logo=canva)
+
+### ⚙️ Other Tools
+![Git](https://img.shields.io/badge/-Git-000?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io)
