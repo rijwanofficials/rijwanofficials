@@ -1,6 +1,6 @@
 # 👋 Hey, I'm Rijwan  
 
-💻 **MERN Stack Developer** | ⚡ **React & Node.js Enthusiast** | 🎨 **UI/UX & Graphic Designer**  
+💻 **MERN Stack Developer** | ⚡ **React & Node.js Enthusiast** | Designer**  
 
 I blend **creativity with technology** — building scalable **MERN applications** and designing **modern, user-friendly UI/UX** experiences.  
 
@@ -24,6 +24,13 @@ I blend **creativity with technology** — building scalable **MERN applications
 ![InDesign](https://img.shields.io/badge/-InDesign-000?style=for-the-badge&logo=adobe-indesign)
 ![Canva](https://img.shields.io/badge/-Canva-000?style=for-the-badge&logo=canva)
 
-### ⚙️ Other Tools
-![Git](https://img.shields.io/badge/-Git-000?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io)
+
+## 📊 GitHub Stats
+
+![Rizwan's GitHub stats](https://github-readme-stats.vercel.app/api?username=rizwanhusain&show_icons=true&theme=tokyonight)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rizwanhusain&layout=compact&theme=tokyonight)  
+
+## 📬 Let's Connect
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/your-link](https://www.linkedin.com/in/rijwanln/))  
+[![Behance](https://img.shields.io/badge/Behance-1769FF?style=flat&logo=behance&logoColor=white)]([your-behance-link](https://www.behance.net/rijwanhusain))  
+
