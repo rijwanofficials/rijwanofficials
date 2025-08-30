@@ -1,6 +1,6 @@
 # 👋 Hey, I'm Rijwan  
 
-💻 **MERN Stack Developer** | ⚡ **React & Node.js Enthusiast** | Designer**  
+💻 **MERN Stack Developer** | ⚡ **React & Node.js Enthusiast** | **Designer**  
 
 I blend **creativity with technology** — building scalable **MERN applications** and designing **modern, user-friendly UI/UX** experiences.  
 
