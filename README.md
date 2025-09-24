@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rijwan Husain</h1>
-<h3 align="center">🚀 MERN Stack Developer | 🎨 UI/UX Designer | 🇮🇳 India</h3>
+<h3 align="center">MERN Stack Developer | Designer | 🇮🇳 India</h3>
 
 ---
 
@@ -10,6 +10,9 @@
   </a>
   <a href="https://leetcode.com/u/__rijwan/" target="_blank">
     <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/null/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-color-tal-revivo.png" alt="LeetCode" height="40" />
+  </a>
+  <a href="https://www.behance.net/rijwanhusain" target="_blank">
+    <img src="https://skillicons.dev/icons?i=behance" alt="Behance" height="40" />
   </a>
   <a href="https://www.behance.net/rijwanhusain" target="_blank">
     <img src="https://skillicons.dev/icons?i=behance" alt="Behance" height="40" />
