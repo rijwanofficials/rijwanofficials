@@ -4,8 +4,9 @@
 
 I blend **creativity with technology** — building scalable **MERN applications** and designing **modern, user-friendly UI/UX** experiences.  
 
+---
 
-<!-- Connect with me section -->
+### 📬 Connect with Me
 <p align="center">
   <a href="https://www.linkedin.com/in/rijwanln/" target="_blank">
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" alt="LinkedIn" height="40" width="40"/>
@@ -18,6 +19,7 @@ I blend **creativity with technology** — building scalable **MERN applications
   </a>
 </p>
 
+---
 
 ## 🚀 Tech Stack
 
@@ -39,24 +41,6 @@ I blend **creativity with technology** — building scalable **MERN applications
   <img src="https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobe-illustrator&logoColor=white" alt="Illustrator"/> 
   <img src="https://img.shields.io/badge/InDesign-FF3366?style=for-the-badge&logo=adobe-indesign&logoColor=white" alt="InDesign"/> 
   <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" alt="Canva"/>
-</p>
-
----
-
-## 📬 Let's Connect
-<p align="left">
-  <a href="mailto:husainrijwan2001@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="https://leetcode.com/u/__rijwan/">
-    <img src="https://img.shields.io/badge/LeetCode-F79F1F?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/>
-  </a>
-  <a href="https://www.linkedin.com/in/rijwanln/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://www.behance.net/rijwanhusain">
-    <img src="https://img.shields.io/badge/Behance-0057FF?style=for-the-badge&logo=behance&logoColor=white" alt="Behance"/>
-  </a>
 </p>
 
 ---
