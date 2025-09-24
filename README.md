@@ -1,6 +1,6 @@
 # 👋 Hey, I'm Rijwan  
 
-💻 **MERN Stack Developer** | ⚡ **React & Node.js Enthusiast** | **Designer**  
+ **MERN Stack Developer** | ⚡ **React & Node.js Enthusiast** | **Designer**  
 
 I blend **creativity with technology** — building scalable **MERN applications** and designing **modern, user-friendly UI/UX** experiences.  
 
@@ -9,15 +9,16 @@ I blend **creativity with technology** — building scalable **MERN applications
 ### 📬 Connect with Me
 <p align="center">
   <a href="https://www.linkedin.com/in/rijwanln/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" alt="LinkedIn" height="40" width="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="40" width="40"/>
   </a>
   <a href="https://leetcode.com/u/__rijwan/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/leetcode.svg" alt="LeetCode" height="40" width="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" height="40" width="40"/>
   </a>
   <a href="https://www.behance.net/rijwanhusain" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/behance.svg" alt="Behance" height="40" width="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/08/Behance_logo_2018.svg" alt="Behance" height="40" width="40"/>
   </a>
 </p>
+
 
 ---
 
