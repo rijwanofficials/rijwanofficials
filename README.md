@@ -2,12 +2,6 @@
 <h3 align="center">A passionate MERN Stack Developer & Designer from India</h3>
 
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=rijwanofficials&theme=dracula&margin-w=15&margin-h=15" alt="rijwanofficials" />
-  </a>
-</p>
-
-<p align="center">
   <a href="https://www.linkedin.com/in/rijwanln/" target="blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rijwan" height="30" width="40" />
   </a>
