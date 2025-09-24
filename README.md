@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rijwan Husain</h1>
-<h3 align="center">MERN Stack Developer | Designer | 🇮🇳 India</h3>
+<h3 align="center">🚀 MERN Stack Developer | 🎨 UI/UX Designer | 🇮🇳 India</h3>
 
 ---
 
@@ -12,28 +12,32 @@
     <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/null/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-color-tal-revivo.png" alt="LeetCode" height="40" />
   </a>
   <a href="https://www.behance.net/rijwanhusain" target="_blank">
-    <img src="https://skillicons.dev/icons?i=behance" alt="Behance" height="40" />
-  </a>
-  <a href="https://www.behance.net/rijwanhusain" target="_blank">
-    <img src="https://skillicons.dev/icons?i=behance" alt="Behance" height="40" />
+    <img src="https://img.icons8.com/ios-filled/50/0057ff/behance.png" alt="Behance" height="40" />
   </a>
 </p>
 
 ---
 
 ### 🚀 About Me
-- 🔭 I’m currently working on **MERN Stack projects & UI/UX designs**  
-- 🌱 I’m currently learning **Advanced MERN concepts, System Design & Cloud**  
-- 👯 I’m looking to collaborate on **Full-stack projects and open-source contributions**  
-- 💬 Ask me about **React, Node.js, MongoDB, Express.js, and UI/UX Design**  
+- 🔭 Currently building **MERN Stack projects & UI/UX designs**  
+- 🌱 Exploring **Advanced MERN concepts, System Design & Cloud**  
+- 👯 Open to collaborating on **Full-stack projects & Open-source contributions**  
+- 💬 Ask me about **React, Node.js, MongoDB, Express.js & UI/UX Design**  
 - 📫 Reach me at **husainrijwan2001@gmail.com**  
 - ⚡ Fun fact: I love **turning ideas into functional, user-friendly apps**  
 
 ---
 
-### 🛠️ Languages & Tools
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,react,nodejs,express,mongodb,c,cpp,figma,photoshop,illustrator,indesign,canva" />
+### 🛠️ Tech Stack
+
+#### 🎨 Frontend
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,figma,photoshop,illustrator,indesign,canva" />
+</p>
+
+#### ⚙️ Backend
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,cpp,c" />
 </p>
 
 ---
