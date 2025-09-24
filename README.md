@@ -1,13 +1,19 @@
 <h1 align="center">Hi 👋, I'm Rijwan Husain</h1>
-<h3 align="center">🚀 MERN Stack Developer | 🎨 UI/UX Designer | 🇮🇳 India</h3>
+<h3 align="center"> MERN Stack Developer | Designer | 🇮🇳 India</h3>
 
 ---
 
 ### 🌐 Connect with me
 <p align="center">
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Rijwan-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rijwanln/)
-  [![LeetCode](https://img.shields.io/badge/LeetCode-Rijwan-orange?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/__rijwan/)
-  [![Behance](https://img.shields.io/badge/Behance-Rijwanhusain-0057FF?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/rijwanhusain)
+  <a href="https://www.linkedin.com/in/rijwanln/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" alt="LinkedIn" height="40"/>
+  </a>
+  <a href="https://leetcode.com/u/__rijwan/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/leetcode.svg" alt="LeetCode" height="40"/>
+  </a>
+  <a href="https://www.behance.net/rijwanhusain" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/behance.svg" alt="Behance" height="40"/>
+  </a>
 </p>
 
 ---
@@ -58,5 +64,5 @@
 
 ### 📈 GitHub Contributions
 <p align="center">
-  <img src="https://github.com/rijwanofficials.png?tab=overview" alt="GitHub Contributions" width="80%" />
+  <img src="https://ghchart.rshah.org/rijwanofficials" alt="GitHub Contributions" width="100%" />
 </p>
