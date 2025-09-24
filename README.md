@@ -1,68 +1,54 @@
-<h1 align="center">Hi 👋, I'm Rijwan Husain</h1>
-<h3 align="center"> MERN Stack Developer | Designer | 🇮🇳 India</h3>
+# 👋 Hey, I'm Rijwan  
+
+💻 **MERN Stack Developer** | ⚡ **React & Node.js Enthusiast** | **Designer**  
+
+I blend **creativity with technology** — building scalable **MERN applications** and designing **modern, user-friendly UI/UX** experiences.  
 
 ---
 
-### 🌐 Connect with me
-<p align="center">
-  <a href="https://www.linkedin.com/in/rijwanln/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" alt="LinkedIn" height="40"/>
-  </a>
-  <a href="https://leetcode.com/u/__rijwan/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/leetcode.svg" alt="LeetCode" height="40"/>
-  </a>
-  <a href="https://www.behance.net/rijwanhusain" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/behance.svg" alt="Behance" height="40"/>
-  </a>
+## 🚀 Tech Stack
+
+### 💻 Development
+<p align="left">
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-000?style=for-the-badge&logo=JavaScript) 
+  ![React](https://img.shields.io/badge/-React-000?style=for-the-badge&logo=react) 
+  ![Node.js](https://img.shields.io/badge/-Node.js-000?style=for-the-badge&logo=node.js) 
+  ![Express.js](https://img.shields.io/badge/-Express.js-000?style=for-the-badge&logo=express) 
+  ![MongoDB](https://img.shields.io/badge/-MongoDB-000?style=for-the-badge&logo=mongodb) 
+  ![C++](https://img.shields.io/badge/-C++-000?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
+  ![C](https://img.shields.io/badge/-C-000?style=for-the-badge&logo=c)
+</p>
+
+### 🎨 Design Tools
+<p align="left">
+  ![Figma](https://img.shields.io/badge/-Figma-000?style=for-the-badge&logo=figma) 
+  ![Photoshop](https://img.shields.io/badge/-Photoshop-000?style=for-the-badge&logo=adobe-photoshop) 
+  ![Illustrator](https://img.shields.io/badge/-Illustrator-000?style=for-the-badge&logo=adobe-illustrator) 
+  ![InDesign](https://img.shields.io/badge/-InDesign-000?style=for-the-badge&logo=adobe-indesign) 
+  ![Canva](https://img.shields.io/badge/-Canva-000?style=for-the-badge&logo=canva)
 </p>
 
 ---
 
-### 🚀 About Me
-- 🔭 Currently building **MERN Stack projects & UI/UX designs**  
-- 🌱 Exploring **Advanced MERN concepts, System Design & Cloud**  
-- 👯 Open to collaborating on **Full-stack projects & Open-source contributions**  
-- 💬 Ask me about **React, Node.js, MongoDB, Express.js & UI/UX Design**  
-- 📫 Reach me at **husainrijwan2001@gmail.com**  
-- ⚡ Fun fact: I love **turning ideas into functional, user-friendly apps**  
-
----
-
-### 🛠️ Tech Stack
-
-#### 🎨 Frontend
-[![HTML](https://img.shields.io/badge/HTML5-%23E34F26?style=for-the-badge&logo=html5&logoColor=white)]()
-[![CSS](https://img.shields.io/badge/CSS3-%231572B6?style=for-the-badge&logo=css3&logoColor=white)]()
-[![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)]()
-[![React](https://img.shields.io/badge/React-%2361DAFB?style=for-the-badge&logo=react&logoColor=black)]()
-
-#### ⚙️ Backend
-[![Node.js](https://img.shields.io/badge/Node.js-%23339933?style=for-the-badge&logo=node.js&logoColor=white)]()
-[![Express.js](https://img.shields.io/badge/Express.js-%23404d59?style=for-the-badge&logo=express&logoColor=white)]()
-[![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248?style=for-the-badge&logo=mongodb&logoColor=white)]()
-
-#### 🖌️ Designing Tools
-[![Figma](https://img.shields.io/badge/Figma-%23F24E1E?style=for-the-badge&logo=figma&logoColor=white)]()
-[![Photoshop](https://img.shields.io/badge/Photoshop-%231876E7?style=for-the-badge&logo=adobe-photoshop&logoColor=white)]()
-[![Illustrator](https://img.shields.io/badge/Illustrator-%23FF9A00?style=for-the-badge&logo=adobe-illustrator&logoColor=white)]()
-[![InDesign](https://img.shields.io/badge/InDesign-%23FF3366?style=for-the-badge&logo=adobe-indesign&logoColor=white)]()
-[![Canva](https://img.shields.io/badge/Canva-%2300C4CC?style=for-the-badge&logo=canva&logoColor=white)]()
-
-#### 📘 DSA in C++
-[![C++](https://img.shields.io/badge/C++-%2300599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)]()
-[![C](https://img.shields.io/badge/C-%2300599C?style=for-the-badge&logo=c&logoColor=white)]()
-
----
-
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rijwanofficials&show_icons=true&theme=react&hide_border=true" alt="GitHub Stats" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rijwanofficials&layout=compact&theme=react&hide_border=true" alt="Top Languages" height="180" />
+## 📬 Let's Connect
+<p align="left">
+  [![Email](https://img.shields.io/badge/Email-husainrijwan2001@gmail.com-red?style=flat&logo=gmail&logoColor=white)](mailto:husainrijwan2001@gmail.com)  
+  [![LeetCode](https://img.shields.io/badge/LeetCode-rizwan-orange?style=flat&logo=leetcode&logoColor=white)](https://leetcode.com/u/__rijwan/)  
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-rijwanln-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rijwanln/)  
+  [![Behance](https://img.shields.io/badge/Behance-rijwanhusain-0057ff?style=flat&logo=behance&logoColor=white)](https://www.behance.net/rijwanhusain)
 </p>
 
 ---
 
-### 📈 GitHub Contributions
+## 📊 Profile Stats
 <p align="center">
-  <img src="https://ghchart.rshah.org/rijwanofficials" alt="GitHub Contributions" width="100%" />
+  ![Profile Views](https://img.shields.io/badge/Profile%20Views-1000+-blue)
+</p>
+
+---
+
+## 📊 GitHub Stats
+<p align="center">
+  ![Rijwan's GitHub stats](https://github-readme-stats.vercel.app/api?username=rijwanofficials&show_icons=true&theme=react)  
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rijwanofficials&layout=compact&theme=react)
 </p>
