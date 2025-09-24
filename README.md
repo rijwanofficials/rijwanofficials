@@ -9,13 +9,13 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/rijwanln/" target="blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="rijwan" />
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rijwan" height="30" width="40" />
   </a>
   <a href="https://leetcode.com/u/__rijwan/" target="blank">
-    <img src="https://img.shields.io/badge/-LeetCode-orange?style=for-the-badge&logo=leetcode&logoColor=white" alt="rijwan" />
+    <img src="https://upload.wikimedia.org/leetcode-logo.png" alt="LeetCode" height="30" width="40" />
   </a>
   <a href="https://www.behance.net/rijwanhusain" target="blank">
-    <img src="https://img.shields.io/badge/-Behance-0057ff?style=for-the-badge&logo=behance&logoColor=white" alt="rijwan" />
+    <img src="https://cdn.worldvectorlogo.com/logos/behance-1.svg" alt="behance" height="30" width="40" />
   </a>
 </p>
 
@@ -37,24 +37,11 @@
 
 💬 Ask me about **React, Node.js, Express, MongoDB, UI/UX Design**  
 
-📫 How to reach me: **husainrijwan2001@gmail.com**  
+📫 Reach me at **husainrijwan2001@gmail.com**  
 
 ⚡ Fun fact: I blend **creativity with technology** — coding + design is my superpower!  
 
 ---
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://www.linkedin.com/in/rijwanln/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rijwan" height="30" width="40" />
-  </a>
-  <a href="https://leetcode.com/u/__rijwan/" target="blank">
-    <img align="center" src="https://upload.wikimedia.org/leetcode-logo.png" alt="rijwan" height="30" width="40" />
-  </a>
-  <a href="https://www.behance.net/rijwanhusain" target="blank">
-    <img align="center" src="https://cdn.worldvectorlogo.com/logos/behance-1.svg" alt="rijwan" height="30" width="40" />
-  </a>
-</p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
