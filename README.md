@@ -15,7 +15,7 @@ I blend **creativity with technology** — building scalable **MERN applications
     <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" height="40" width="40"/>
   </a>
   <a href="https://www.behance.net/rijwanhusain" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/08/Behance_logo_2018.svg" alt="Behance" height="40" width="40"/>
+    <img src="https://img.shields.io/badge/Behance-0057FF?style=for-the-badge&logo=behance&logoColor=white" alt="Behance" height="40"/>
   </a>
 </p>
 
