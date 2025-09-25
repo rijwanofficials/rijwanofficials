@@ -21,6 +21,7 @@ I blend **creativity with technology** — building scalable **MERN applications
 
 
 ---
+## Tech Stack
 
 #### 🎨 Frontend
 [![HTML](https://img.shields.io/badge/HTML5-%23E34F26?style=for-the-badge&logo=html5&logoColor=white)]()
@@ -44,7 +45,6 @@ I blend **creativity with technology** — building scalable **MERN applications
 [![C++](https://img.shields.io/badge/C++-%2300599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)]()
 ---
 
-## 📊 Profile Stats
 
 <p align="center">
   <!-- Top Languages -->
