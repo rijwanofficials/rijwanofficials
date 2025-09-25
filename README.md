@@ -40,16 +40,27 @@ I blend **creativity with technology** — building scalable **MERN applications
 [![InDesign](https://img.shields.io/badge/InDesign-%23FF3366?style=for-the-badge&logo=adobe-indesign&logoColor=white)]()
 [![Canva](https://img.shields.io/badge/Canva-%2300C4CC?style=for-the-badge&logo=canva&logoColor=white)]()
 
-#### 📘 DSA in C++
+#### 📘 DSA
 [![C++](https://img.shields.io/badge/C++-%2300599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)]()
-[![C](https://img.shields.io/badge/C-%2300599C?style=for-the-badge&logo=c&logoColor=white)]()
-
 ---
 
 ## 📊 Profile Stats
+
 <p align="center">
-  <img src="https://img.shields.io/badge/Profile%20Views-1000+-blue" alt="Profile Views"/>
+  <!-- Top Languages -->
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rijwanofficials&show_icons=true&locale=en&layout=compact&theme=dracula" alt="rijwanofficials" />
 </p>
+
+<p align="center">
+  <!-- GitHub Stats -->
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=rijwanofficials&show_icons=true&locale=en&theme=dracula" alt="rijwanofficials" />
+</p>
+
+<p align="center">
+  <!-- GitHub Streak Stats -->
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rijwanofficials&theme=dracula" alt="rijwanofficials" />
+</p>
+
 
 ---
 
