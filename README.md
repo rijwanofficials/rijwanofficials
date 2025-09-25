@@ -6,7 +6,7 @@ I blend **creativity with technology** — building scalable **MERN applications
 
 ---
 
-### 📬 Connect with Me
+### Connect with Me
 <p align="center">
   <a href="https://www.linkedin.com/in/rijwanln/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="40" width="40"/>
@@ -59,13 +59,4 @@ I blend **creativity with technology** — building scalable **MERN applications
 <p align="center">
   <!-- GitHub Streak Stats -->
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rijwanofficials&theme=dracula" alt="rijwanofficials" />
-</p>
-
-
----
-
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rijwanofficials&show_icons=true&theme=react&hide_border=true" alt="GitHub Stats"/>  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rijwanofficials&layout=compact&theme=react&hide_border=true" alt="Top Languages"/>
 </p>
