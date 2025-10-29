@@ -1,12 +1,12 @@
 # Hey, I'm Rijwan  
 
-** MERN Stack Developer** |  **React & Node.js Enthusiast** |  **UI/UX Designer**
+**MERN Stack Developer** |  **React & Node.js Enthusiast** |  **UI/UX Designer**
 
 I blend **creativity with technology** — crafting scalable **MERN applications** and designing **modern, user-friendly interfaces** that deliver impact and performance.
 
 ---
 
-###  Connect with Me  
+### Connect with Me  
 <p align="center">
   <a href="https://www.linkedin.com/in/rijwanln/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="40" width="40"/>
@@ -21,7 +21,7 @@ I blend **creativity with technology** — crafting scalable **MERN applications
 
 ---
 
-##  Tech Stack  
+## Tech Stack  
 
 ###  Frontend  
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26?style=for-the-badge&logo=html5&logoColor=white)
