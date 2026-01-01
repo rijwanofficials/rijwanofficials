@@ -51,17 +51,16 @@ I blend **creativity with technology** — crafting scalable **MERN applications
 ## 📊 GitHub Insights  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rijwanofficials&show_icons=true&locale=en&layout=compact&theme=dracula&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rijwanofficials&layout=compact&theme=dracula&v=1" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rijwanofficials&show_icons=true&theme=dracula&count_private=true&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=rijwanofficials&show_icons=true&theme=dracula&count_private=true&v=1" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=rijwanofficials&theme=dracula&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=rijwanofficials&theme=dracula&v=1" />
 </p>
-
 
 
 ---
