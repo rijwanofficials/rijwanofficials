@@ -55,26 +55,24 @@ I blend **creativity with technology** — crafting scalable **MERN applications
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=rijwanofficials&layout=compact&theme=dracula&hide_border=true&cache_seconds=86400"
-    alt="Top Languages"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=rijwanofficials&show_icons=true&theme=dracula&hide_border=true&cache_seconds=86400"
+    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=rijwanofficials&show_icons=true&theme=tokyonight"
     alt="GitHub Stats"
   />
 </p>
 
 <p align="center">
   <img
-    src="https://github-readme-streak-stats.herokuapp.com?user=rijwanofficials&theme=dracula&hide_border=true"
-    alt="GitHub Streak"
+    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=rijwanofficials&layout=compact&theme=tokyonight"
+    alt="Top Languages"
   />
 </p>
 
-
+<p align="center">
+  <img
+    src="https://github-readme-streak-stats-eight.vercel.app/?user=rijwanofficials&theme=tokyonight"
+    alt="GitHub Streak"
+  />
+</p>
 ---
 
 ### Fun Fact  
