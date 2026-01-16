@@ -7,13 +7,22 @@ I blend **creativity with technology** — crafting scalable **MERN applications
 ---
 
 ### Connect with Me  
+## 📊 GitHub Insights  
+
 <p align="center">
-  <a href="https://www.linkedin.com/in/rijwanln/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="40" width="40"/>
-  </a>
-  <a href="https://leetcode.com/u/__rijwan/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" height="40" width="40"/>
-  </a>
+  <img
+    src="https://stats.quine.sh/rijwanofficials/github?theme=dark"
+    alt="GitHub Stats"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://stats.quine.sh/rijwanofficials/languages?theme=dark"
+    alt="Top Languages"
+  />
+</p>
+<p>
   <a href="https://www.behance.net/rijwanhusain" target="_blank">
     <img src="https://img.shields.io/badge/Behance-0057FF?style=for-the-badge&logo=behance&logoColor=white" alt="Behance" height="40"/>
   </a>
