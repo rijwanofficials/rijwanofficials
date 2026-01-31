@@ -56,14 +56,14 @@ I blend **creativity with technology** — crafting scalable **MERN applications
 
 <p align="center">
   <img
-    src="https://stats.quine.sh/rijwanofficials/github?theme=dark"
+    src="https://github-readme-stats.vercel.app/api?username=rijwanofficials&show_icons=true&theme=tokyonight"
     alt="GitHub Stats"
   />
 </p>
 
 <p align="center">
   <img
-    src="https://stats.quine.sh/rijwanofficials/languages?theme=dark"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=rijwanofficials&layout=compact&theme=tokyonight"
     alt="Top Languages"
   />
 </p>
