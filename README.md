@@ -55,15 +55,13 @@ I blend **creativity with technology** — crafting scalable **MERN applications
 ## 📊 GitHub Insights
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rijwanofficials&show_icons=true&theme=tokyonight" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rijwanofficials&layout=compact&theme=tokyonight" height="165"/>
-</p>
-
-<p align="center">
   <img src="https://gh-stats-gen.vercel.app/api?username=rijwanofficials&show_icons=true&theme=tokyonight" height="165"/>
   <img src="https://gh-stats-gen.vercel.app/api/top-lang?username=rijwanofficials&theme=tokyonight" height="165"/>
 </p>
 
+<p align="center">
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=rijwanofficials&theme=tokyonight"/>
+</p>
 
 <p align="center">
   <img
