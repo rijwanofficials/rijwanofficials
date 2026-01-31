@@ -50,8 +50,6 @@ I blend **creativity with technology** — crafting scalable **MERN applications
 ![C++](https://img.shields.io/badge/C++-%2300599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)
 
----
-
 ## 📊 GitHub Insights
 
 <p align="center">
@@ -63,13 +61,6 @@ I blend **creativity with technology** — crafting scalable **MERN applications
   <img src="https://github-readme-streak-stats-eight.vercel.app/?user=rijwanofficials&theme=tokyonight"/>
 </p>
 
-<p align="center">
-  <img
-    src="https://github-readme-streak-stats-eight.vercel.app/?user=rijwanofficials&theme=tokyonight"
-    alt="GitHub Streak"
-  />
-</p>
----
 
 ### Fun Fact  
 > “Design is intelligence made visible — I code what I imagine.”
